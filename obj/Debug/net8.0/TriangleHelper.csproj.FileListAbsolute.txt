@@ -1,0 +1,5 @@
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelper\obj\Debug\net8.0\TriangleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelper\obj\Debug\net8.0\TriangleHelper.AssemblyInfoInputs.cache
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelper\obj\Debug\net8.0\TriangleHelper.AssemblyInfo.cs
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelper\obj\Debug\net8.0\TriangleHelper.csproj.CoreCompileInputs.cache
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelper\obj\Debug\net8.0\TriangleHelper.csproj.AssemblyReference.cache

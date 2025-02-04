@@ -1,0 +1,6 @@
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\obj\Debug\net8.0\TriangleHelperTests.cs.csproj.AssemblyReference.cache
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\obj\Debug\net8.0\TriangleHelperTests.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\obj\Debug\net8.0\TriangleHelperTests.cs.AssemblyInfoInputs.cache
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\obj\Debug\net8.0\TriangleHelperTests.cs.AssemblyInfo.cs
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\obj\Debug\net8.0\TriangleHelperTests.cs.csproj.CoreCompileInputs.cache
+C:\Users\AKU\Desktop\engeneer MgH 25\TriangleHelperTests.cs\bin\Debug\net8.0\CoverletSourceRootsMapping_TriangleHelperTests.cs
